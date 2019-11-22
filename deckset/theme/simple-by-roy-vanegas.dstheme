@@ -4,74 +4,94 @@
     "customizations": {},
     "baseCustomizations":
     {
-        "header":
-        {
-            "textScale": 1,
-            "textAlignment": 0,
-            "lineHeight": 1,
-            "font":
-            {
-                "familyName": "IBM Plex Sans",
-                "fullName": "IBMPlexSans-SemiBold",
-                "memberName": "SemiBold"
-            },
-            "color":
-            {
-                "red": 0.21568627450980393,
-                "green": 0.21568627450980393,
-                "blue": 0.21568627450980393
-            }
-        },
-        "background":
-        {
-            "color":
-            {
-                "red": 255,
-                "green": 255,
-                "blue": 255
-            }
-        },
-        "code":
-        {
-            "colorMode": "manual",
-            "colors":
-            [
-                {
-                    "red": 0,
-                    "green": 0.48627450980392156,
-                    "blue": 0.984313725490196
-                },
-                {
-                    "red": 0.5882352941176471,
-                    "green": 0.5882352941176471,
-                    "blue": 0.5882352941176471
-                },
-                {
-                    "red": 0.9921568627450981,
-                    "green": 0.1474816240931597,
-                    "blue": 0.027304797278592162
-                },
-                {
-                    "red": 0,
-                    "green": 0.8627450980392157,
-                    "blue": 0
-                },
-                {
-                    "red": 0,
-                    "green": 0.8627450980392157,
-                    "blue": 0
-                }
-            ],
-            "lineHeight": 1,
-            "font":
-            {
-                "familyName": "IBM Plex Mono",
-                "fullName": "IBMPlexMono-BoldItalic",
-                "memberName": "Bold Italic"
-            },
-            "seed": 0
-        }
-    },
+      "code": {
+         "colorMode": "manual",
+         "colors": [
+           {
+             "red": 0,
+             "green": 0.48627450980392156,
+             "blue": 0.984313725490196
+           },
+           {
+             "red": 0.5882352941176471,
+             "green": 0.5882352941176471,
+             "blue": 0.5882352941176471
+           },
+           {
+             "red": 0.9921568627450981,
+             "green": 0.1474816240931597,
+             "blue": 0.027304797278592162
+           },
+           {
+             "red": 0,
+             "green": 0.8627450980392157,
+             "blue": 0
+           },
+           {
+             "red": 0,
+             "green": 0,
+             "blue": 0
+           }
+         ],
+         "lineHeight": 1,
+         "font": {
+           "familyName": "IBM Plex Mono",
+           "fullName": "IBMPlexMono-BoldItalic",
+           "memberName": "Bold Italic"
+         },
+         "seed": 0
+       },
+       "background": {
+         "color": {
+           "red": 255,
+           "green": 255,
+           "blue": 255
+         }
+       },
+       "quote": {
+         "quoteLineHeight": 1,
+         "quoteAuthorLineHeight": 1.100000023841858,
+         "quoteTextAlignment": 2,
+         "quoteAuthorFont": {
+           "familyName": "Roboto",
+           "fullName": "Roboto-Light",
+           "memberName": "Light"
+         },
+         "quoteAuthorTextAlignment": 0,
+         "quoteTextScale": 0.5999999046325684,
+         "quoteColor": {
+           "red": 0.21568627450980393,
+           "green": 0.21568627450980393,
+           "blue": 0.21568627450980393
+         },
+         "quoteAuthorTextScale": 1,
+         "quoteFont": {
+           "familyName": "Roboto",
+           "fullName": "Roboto-Italic",
+           "memberName": "Italic"
+         },
+         "quoteAuthorColor": {
+           "red": 0.21568627450980393,
+           "green": 0.21568627450980393,
+           "blue": 0.21568627450980393
+         }
+       },
+       "header": {
+         "textScale": 1,
+         "textAlignment": 0,
+         "lineHeight": 1,
+         "font": {
+           "familyName": "IBM Plex Sans",
+           "fullName": "IBMPlexSans-SemiBold",
+           "memberName": "SemiBold"
+         },
+         "color": {
+           "red": 0.21568627450980393,
+           "green": 0.21568627450980393,
+           "blue": 0.21568627450980393
+         }
+       }
+     },
     "identifier": "8D3B6F12-42EF-4F7D-8794-1BC1AB007259",
     "creationDate": 1571773880.309462,
     "baseTheme":
