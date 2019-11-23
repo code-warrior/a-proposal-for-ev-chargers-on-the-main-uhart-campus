@@ -11,6 +11,8 @@ build-lists: true
 ---
 
 ## Acronyms
+* **DEEP**: Dept of Energy and Environmental Protection
+* **NEMA**: National Electrical Manufacturers Association
 * **EVSE**: Electric Vehicle Supply Equipment (charging station and associated equipment)
 * **HEV**: Hybrid Electric Vehicle (Prius)
 * **PHEV**: Plug-In Hybrid Electric Vehicle (Prius Prime)
