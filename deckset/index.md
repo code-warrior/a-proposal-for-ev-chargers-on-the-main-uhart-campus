@@ -23,7 +23,7 @@ build-lists: true
 
 ## HEV Note
 
-Any discussion about charging vehicles in this deck does not pertain to HEVs, as the electricity required to recharge these vechicle’s on-board battery isn’t supplied by EVSE.
+Any discussion about charging vehicles in this deck does not pertain to HEVs — or hybrids, as they’re more commonly known — as the electricity required to recharge these vechicle’s on-board battery isn’t supplied by EVSE.
 
 ---
 
