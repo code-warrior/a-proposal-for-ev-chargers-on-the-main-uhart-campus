@@ -72,3 +72,18 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 * $$amps \times volts = watts$$.
 * A typical household outlet provides about 15 $$amps$$ at 120 $$volts$$.
 * Thus $$15 \times 120 = 1800watts$$ per hour, or $$1.8kWh$$.
+
+---
+
+## How Much Does EV Charging Cost the Customer (for Level 1 Charging) at Home?
+* Charging my car for 1 hour — using a standard, Type B plug (also known as a Level I NEMA 5-15) found in homes and businesses throughout the US — provided me with $$5$$ miles of range.
+* As calculated in the previous slide, the outlet supplied about $$1800watts$$, or $$1.8kWh$$.
+* Thus, 1 mile of range requires $$\frac{watts}{mileage} = \frac{1800}{5} = 360watts$$.
+
+---
+
+## How Much Does EV Charging Cost the Customer (for Level 1 Charging) at Home?
+* Eversource charges me about $$\$0.19$$ per $$kWh$$.
+* Thus, one hour of charge costs $$\$.34$$, which is calculated as $$1.8kWh \times \$0.19 = \$.34$$.
+
+**Reminder**: These numbers pertain to a typical household plug.
