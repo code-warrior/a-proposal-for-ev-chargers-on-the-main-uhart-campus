@@ -65,3 +65,10 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 [^1]: [https://afdc.energy.gov/laws/11497](https://afdc.energy.gov/laws/11497)
 
 [^2]: [https://visitor.r20.constantcontact.com/manage/optin?v=001YIysmm7Zby2v8N7gpaNE4FHXjSP7wJj58Iys44A5Z6Z5NY-S8IYebvy6RlHJWPdbEsNxUKhJutkdfCeGJKbxpQ1ZHc7VfHHvGyVbLgM73G4%3D](https://visitor.r20.constantcontact.com/manage/optin?v=001YIysmm7Zby2v8N7gpaNE4FHXjSP7wJj58Iys44A5Z6Z5NY-S8IYebvy6RlHJWPdbEsNxUKhJutkdfCeGJKbxpQ1ZHc7VfHHvGyVbLgM73G4%3D)
+
+---
+
+## Some Basic Electric Math
+* $$amps \times volts = watts$$.
+* A typical household outlet provides about 15 $$amps$$ at 120 $$volts$$.
+* Thus $$15 \times 120 = 1800watts$$ per hour, or $$1.8kWh$$.
