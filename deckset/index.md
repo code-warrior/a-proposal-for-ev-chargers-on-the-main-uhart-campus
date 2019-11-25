@@ -26,15 +26,14 @@ Any discussion about charging vehicles in this deck does not pertain to HEVs —
 
 ---
 
-## Which Local Colleges/Universities Have EV Chargers?
-| School | Amt of Chargers | Pulic or Private | Fee | Comment |
-|--------|:---------------:|:----------------:|:---:|:-------:|
-| [Asnuntuck Community College](https://asnuntuck.edu/acc-has-free-electric-vehicle-charging-station/) | 1       | Public | Free | None |
-| [Trinity College](https://www.trincoll.edu/sustainability/climate-change/)                           | 4       | Public | Free | None |
-| [Western Connecticut State University](https://www.wcsu.edu/news-archives/evchargingstations/)       | 4       | Public | Free | None |
-| [UConn at Storrs and the School of Law](https://ecohusky.uconn.edu/electric-vehicles/)               | Various | Public | Free | The UConn Law School has 2 chargers and the Storrs campus has 2 or more chargers.
-
-**Note**: This is only a partial list.
+## Partial List of Local Colleges/Universities That Have EV Chargers?
+| School | Amt of Chargers | Public or Private | Fee | Comment |
+|--------|:---------------:|:-----------------:|:---:|:-------:|
+| [Asnuntuck Community College](https://asnuntuck.edu/acc-has-free-electric-vehicle-charging-station/)   | 1       | Public | Free | None |
+| [Trinity College](https://www.trincoll.edu/sustainability/climate-change/)                             | 4       | Public | Free | None |
+| [Western Connecticut State University](https://www.wcsu.edu/news-archives/evchargingstations/)         | 4       | Public | Free | None |
+| [Wesleyan University](https://www.wesleyan.edu/sustainability/initiatives/transportation/options.html) | 10      | Mostly private; public discouraged | Free | Mainly for use by the Wesleyan community. Public users must obtain a parking permit or have their vehicle im-mobilized. |
+| [UConn at Storrs and the School of Law](https://ecohusky.uconn.edu/electric-vehicles/)                 | Various | Public | Free | The UConn Law School has 2 chargers and the Storrs campus has 2 or more chargers.
 
 ---
 
