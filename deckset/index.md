@@ -82,8 +82,14 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 
 ---
 
-## How Much Does EV Charging Cost the Customer (for Level 1 Charging) at Home?
-* Eversource charges me about $$\$0.19$$ per $$kWh$$.
-* Thus, one hour of charge costs $$\$.34$$, which is calculated as $$1.8kWh \times \$0.19 = \$.34$$.
+## How Much Electricity Does an EV Need to Travel One Mile?
+* Charging my car for one hour ($$1800watts$$) from a standard plug provided me with $$5$$ miles of range.
+* Therefore, 1 mile of range requires $$\frac{1800 (watts)}{5 (miles)} = 360watts$$.
 
-**Reminder**: These numbers pertain to a typical household plug.
+---
+
+## How Much Does the Consumer Pay for Level 2 EV Charging on the Road?
+* Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
+* I have, however, paid for parking. For example:
+   — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
+   — *CT (Blue Back Square)*: $1.50 per hour.
