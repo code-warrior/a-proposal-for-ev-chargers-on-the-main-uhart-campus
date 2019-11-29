@@ -94,3 +94,20 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 * I have, however, paid for parking in locations that provide EV charging. For example:
    — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
    — *CT (Blue Back Square)*: $1.50 per hour.
+
+---
+
+## Charging Levels
+There are currently three levels of charging, and each varies wildly from the others.
+
+* **Level 1**: Slowest, at about 1.8$$kWh$$, providing about 5 RPH.
+* **Level 2**: Most common, at about 9$$kWh$$, providing about 25 RPH.
+* **Level 3**: Fastest, at about 50$$kWh$$, providing about 138 RPH.[^4]
+
+[^4]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ charging, providing about 333 RPH.
+
+**Note**: These numbers are typical, but your mileage may vary.
+
+![fit](https://en.wikipedia.org/wiki/NEMA_connector#/media/File:NEMA_simplified_pins.svg)
+
+---
