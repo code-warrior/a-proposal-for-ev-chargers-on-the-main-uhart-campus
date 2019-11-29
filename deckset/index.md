@@ -27,7 +27,7 @@ Any discussion about charging vehicles in this deck does not pertain to HEVs —
 
 ---
 
-## Partial List of Local Colleges/Universities That Have EV Chargers?
+## A Partial List of Local Colleges/Universities With EV Chargers?
 | School | Amt of Chargers | Public or Private | Fee | Comment |
 |--------|:---------------:|:-----------------:|:---:|:-------:|
 | [Asnuntuck Community College](https://asnuntuck.edu/acc-has-free-electric-vehicle-charging-station/)   | 1       | Public | Free | None |
