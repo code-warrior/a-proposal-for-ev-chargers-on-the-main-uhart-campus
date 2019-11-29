@@ -132,3 +132,93 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ## Partial List of Local EV Chargers
 
 ---
+
+## Partial List of Local EV Chargers
+
+**Location**: Delamar West Hartford
+
+**Brand**: Clipper Creek
+
+![fit, right](img/IMG_1800.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Delamar West Hartford
+
+**Brand**: Clipper Creek
+
+![fit, right](img/IMG_0749.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Bloomfield Human Services Community Center
+
+**Brand**: SemaConnect
+
+![fit, right](img/IMG_8346.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Bloomfield Human Services Community Center
+
+**Brand**: SemaConnect
+
+![fit, right](img/IMG_3337.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: University of Connecticut School of Law
+
+**Brand**: EVSE LLC
+
+![fit, right](img/IMG_6080.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: West Hartford Town Hall
+
+**Brand**: EVSE LLC
+
+![fit, right](img/IMG_0954.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Public parking, Arapahoe Rd at LaSalle Rd
+
+**Brand**: Clipper Creek
+
+![fit, right](img/IMG_0876.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Public parking, Arapahoe Rd at LaSalle Rd
+
+**Brand**: Clipper Creek
+
+![fit, right](img/IMG_8269.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+
+**Location**: Bishops Corner
+
+**Brand**: ChargePoint
+
+![fit, right](img/PENDING)
+
+---
