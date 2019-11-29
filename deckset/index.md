@@ -91,6 +91,6 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 
 ## How Much Does the Consumer Pay for Level 2 EV Charging on the Road?
 * Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
-* I have, however, paid for parking. For example:
+* I have, however, paid for parking in locations that provide EV charging. For example:
    — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
    — *CT (Blue Back Square)*: $1.50 per hour.
