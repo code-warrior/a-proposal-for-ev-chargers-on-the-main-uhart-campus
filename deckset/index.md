@@ -111,3 +111,24 @@ There are currently three levels of charging, and each varies wildly from the ot
 ![fit](https://en.wikipedia.org/wiki/NEMA_connector#/media/File:NEMA_simplified_pins.svg)
 
 ---
+
+## Form Factors
+The most common form factors for charging interfaces in the US:
+
+* **J1772** (Level 1 and Level 2)
+* **CCS 1** (Level 3)
+* **CHAdeMO** (Level 3)
+
+---
+
+## Form Factors
+
+![92%, inline](img/ev-charging-basics.jpg)
+
+Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.chargepoint.com/files/Quick_Guide_to_Fast_Charging.pdf)
+
+---
+
+## Partial List of Local EV Chargers
+
+---
