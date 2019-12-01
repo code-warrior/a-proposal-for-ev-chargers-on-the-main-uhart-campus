@@ -68,35 +68,6 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 
 ---
 
-## Some Basic Electric Math
-* $$amps \times volts = watts$$.
-* A typical household outlet provides about 15 $$amps$$ at 120 $$volts$$.
-* Thus $$15 \times 120 = 1800watts$$ per hour, or $$1.8kWh$$.
-
----
-
-## How Much Does the Consumer Pay for EV Charging at Home?
-* Eversource charges me about $$\$0.19$$ per $$kWh$$, and the outlet at my home[^3] supplied about $$1800watts$$, or $$1.8kWh$$.
-* Thus, $$1.8kWh \times \$0.19 = \$.34$$.
-
-[^3]: A typical, Type B household plug, also known as a NEMA 5-15.
-
----
-
-## How Much Electricity Does an EV Need to Travel One Mile?
-* Charging my car for one hour ($$1800watts$$) from a standard plug provided me with $$5$$ miles of range.
-* Therefore, 1 mile of range requires $$\frac{1800 (watts)}{5 (miles)} = 360watts$$.
-
----
-
-## How Much Does the Consumer Pay for Level 2 EV Charging on the Road?
-* Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
-* I have, however, paid for parking in locations that provide EV charging. For example:
-   — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
-   — *CT (Blue Back Square)*: $1.50 per hour.
-
----
-
 ## Charging Levels
 There are currently three levels of charging, and each varies wildly from the others.
 
@@ -126,6 +97,35 @@ The most common form factors for charging interfaces in the US:
 ![92%, inline](img/ev-charging-basics.jpg)
 
 Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.chargepoint.com/files/Quick_Guide_to_Fast_Charging.pdf)
+
+---
+
+## Some Basic Electric Math
+* $$amps \times volts = watts$$.
+* A typical household outlet provides about 15 $$amps$$ at 120 $$volts$$.
+* Thus $$15 \times 120 = 1800watts$$ per hour, or $$1.8kWh$$.
+
+---
+
+## How Much Does the Consumer Pay for EV Charging at Home?
+* Eversource charges me about $$\$0.19$$ per $$kWh$$, and the outlet at my home[^3] supplied about $$1800watts$$, or $$1.8kWh$$.
+* Thus, $$1.8kWh \times \$0.19 = \$.34$$.
+
+[^3]: A typical, Type B household plug, also known as a NEMA 5-15.
+
+---
+
+## How Much Electricity Does an EV Need to Travel One Mile?
+* Charging my car for one hour ($$1800watts$$) from a standard plug provided me with $$5$$ miles of range.
+* Therefore, 1 mile of range requires $$\frac{1800 (watts)}{5 (miles)} = 360watts$$.
+
+---
+
+## How Much Does the Consumer Pay for Level 2 EV Charging on the Road?
+* Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
+* I have, however, paid for parking in locations that provide EV charging. For example:
+   — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
+   — *CT (Blue Back Square)*: $1.50 per hour.
 
 ---
 
