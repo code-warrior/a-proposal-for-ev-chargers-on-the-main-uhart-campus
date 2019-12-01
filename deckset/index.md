@@ -107,8 +107,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
-## How Much Does the Consumer Pay for EV Charging at Home?
 * Eversource charges me about $$\$0.19$$ per $$kWh$$, and the outlet at my home[^3] supplied about $$1800watts$$, or $$1.8kWh$$.
+## How Much Does the Consumer Pay for EV Charging at Home, Which is Level 1?
 * Thus, $$1.8kWh \times \$0.19 = \$.34$$.
 
 [^3]: A typical, Type B household plug, also known as a NEMA 5-15.
@@ -121,7 +121,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
-## How Much Does the Consumer Pay for Level 2 EV Charging on the Road?
+## How Much Does the Consumer Pay for EV Charging on the Road, Which is Level 2?
 * Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
 * I have, however, paid for parking in locations that provide EV charging. For example:
    — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
