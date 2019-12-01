@@ -56,11 +56,13 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 
 ## So, Why is Charging Free in Most Places?
 * CT [provides incentives](https://afdc.energy.gov/laws/11497)[^1] to offset the cost of EVSE installation.
-* In exchange for the subsidy, the state requires that the site provide free EV charging to the public.
-* Hence, free EV charging at places like The UConn Law School Library and Trinity College’s Crescent St parking lot, among other locations through the Hartford environs.
-* As of August 2019, there are no state incentives/subsidies for EVSE installation.
-* Paul Kritzler, Environmental Analyst at DEEP, said that subsidies may be reinstated in 2020, but he was unsure of to when exactly.
-* He advised me, and any interested parties, to [sign up](https://visitor.r20.constantcontact.com/manage/optin?v=001YIysmm7Zby2v8N7gpaNE4FHXjSP7wJj58Iys44A5Z6Z5NY-S8IYebvy6RlHJWPdbEsNxUKhJutkdfCeGJKbxpQ1ZHc7VfHHvGyVbLgM73G4%3D)[^2] for notifications.
+* In exchange for the subsidy, the state requires that the site provides free EV charging to the public.
+* Hence, free EV charging at places like The UConn Law School Library and Trinity College’s Crescent St parking lot, among other locations throughout Hartford.
+* Paul Kritzler, Environmental Analyst at DEEP, said that CT is also receiving funds from Volkswagen.
+* He’s likely referring to the [VW Settlement Information](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=587294&deepNav_GID=1619).
+* Some VW funds are being awarded for EVSE installation. However, as of August 2019, there are no state incentives/subsidies.
+* Kritzler said that subsidies may be reinstated in 2020, but was unsure as to a specific date.
+* He advised me — and any interested parties — to [sign up](https://visitor.r20.constantcontact.com/manage/optin?v=001YIysmm7Zby2v8N7gpaNE4FHXjSP7wJj58Iys44A5Z6Z5NY-S8IYebvy6RlHJWPdbEsNxUKhJutkdfCeGJKbxpQ1ZHc7VfHHvGyVbLgM73G4%3D)[^2] for notifications.
 
 [^1]: [https://afdc.energy.gov/laws/11497](https://afdc.energy.gov/laws/11497)
 
