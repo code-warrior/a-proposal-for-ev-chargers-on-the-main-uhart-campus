@@ -228,3 +228,20 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ![fit, right](img/PENDING)
 
 ---
+
+## Useful Links
+
+* The US Dept of Energy’s [Costs Associated With Non-Residential Electric Vehicle Supply Equipment](https://afdc.energy.gov/files/u/publication/evse_cost_report_2015.pdf)
+
+   *Published in late 2015, this document answers just about any question one may have regarding the installation of EVSE onto non-residential properties. Appendix C: Electricity Consumption Examples on Page 38 provides examples of pricing and power consumption use.* **§**
+
+* *[Capitol Clean Cities of Connecticut](http://ct-ccc.org/wp/)*
+
+   *The local Clean Cities coalition that brings together a network of contacts in the EV industry.* **§**
+
+* *[EVConnecticut Charging Resources](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=562474&deepNav_GID=2183)* by Dept of Energy & Environmental Protection (DEEP)
+
+   *“The resources on this page will help you explore various types of charging station equipment and also provide very useful information on siting a charging station and signage requirements.”*
+
+
+   **Source**: First paragraph at [EVConnecticut Charging Resources](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=562474&deepNav_GID=2183). **§**
