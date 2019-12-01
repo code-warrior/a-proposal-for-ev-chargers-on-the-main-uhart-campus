@@ -75,9 +75,9 @@ There are currently three levels of charging, and each varies wildly from the ot
 
 * **Level 1**: Slowest, at about 1.8$$kWh$$, providing about 5 RPH.
 * **Level 2**: Most common, at about 9$$kWh$$, providing about 25 RPH.
-* **Level 3**: Fastest, at about 50$$kWh$$, providing about 138 RPH.[^4]
+* **Level 3**: Fastest, at about 50$$kWh$$, providing about 138 RPH.[^3]
 
-[^4]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 RPH.
+[^3]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 RPH.
 
 **Note**: These numbers are typical, but your mileage may vary.
 
@@ -90,7 +90,11 @@ The most common form factors for charging interfaces in the US:
 
 * **J1772** (Level 1 and Level 2)
 * **CCS 1** (Level 3)
-* **CHAdeMO** (Level 3)
+* **CHAdeMO** (Level 3)[^4] [^5]
+
+[^4]: “CHAdeMO” is a pun on “O cha demo ikaga desuka” in Japanese, meaning, “Let’s have a tea while charging” in English.
+
+[^5]: **Source**: [http://www.tepco.co.jp/en/press/corp-com/release/betu10_e/images/100315e1.pdf](http://www.tepco.co.jp/en/press/corp-com/release/betu10_e/images/100315e1.pdf)
 
 ---
 
@@ -110,10 +114,10 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## How Much Does the Consumer Pay for EV Charging at Home, Which is Level 1?
-* Eversource charges me about $$\$0.19$$ per $$kWh$$, and all the outlets in my apartment [^3] supplies about $$1800watts$$, or $$1.8kWh$$.
+* Eversource charges me about $$\$0.19$$ per $$kWh$$, and all the outlets in my apartment [^6] supplies about $$1800watts$$, or $$1.8kWh$$.
 * Thus, $$1.8kWh \times \$0.19 = \$.34$$.
 
-[^3]: A typical, Type B household plug, also known as a NEMA 5-15.
+[^6]: A typical, Type B household plug, also known as a NEMA 5-15.
 
 ---
 
