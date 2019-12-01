@@ -75,7 +75,7 @@ There are currently three levels of charging, and each varies wildly from the ot
 * **Level 2**: Most common, at about 9$$kWh$$, providing about 25 RPH.
 * **Level 3**: Fastest, at about 50$$kWh$$, providing about 138 RPH.[^4]
 
-[^4]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ charging, providing about 333 RPH.
+[^4]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 RPH.
 
 **Note**: These numbers are typical, but your mileage may vary.
 
@@ -116,7 +116,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## How Much Electricity Does an EV Need to Travel One Mile?
-* Charging my car for one hour ($$1800watts$$) from a standard plug provided me with $$5$$ miles of range.
+* Charging my car for one hour ($$1800watts$$) from a standard plug provides me with $$5$$ miles of range.
 * Therefore, 1 mile of range requires $$\frac{1800 (watts)}{5 (miles)} = 360watts$$.
 
 ---
