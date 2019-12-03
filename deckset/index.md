@@ -27,6 +27,14 @@ Any discussion about charging vehicles in this deck does not pertain to HEVs —
 
 ---
 
+# The Benefits of Adding EV Stations
+* Gives the environmental program extra credibility.
+* Makes the campus more desirable for prospective faculty, staff, and students.
+* Keeps UHart contemporary with other local academic institutions.
+* Gives the impression that UHart keeps abreast of upward trends in transportation.
+
+---
+
 ## A Partial List of Local Colleges/Universities With EV Chargers?
 | School | Amt of Chargers | Public or Private | Fee | Comment |
 |--------|:---------------:|:-----------------:|:---:|:-------:|
