@@ -258,3 +258,27 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 * US Dept of Energy’s *[Vehicle Technologies Program](https://www.westhartfordct.gov/civicax/filebank/blobdload.aspx?BlobID=28387)* (October 2011) **§**
 
 ---
+
+## What Will the Least Expensive Level 2 Charger Cost UHart?
+**Note**: The following excludes EVSE costs.
+
+* Clipper Creek makes [the cheapest Level 1 charger]((https://store.clippercreek.com/all-products/level-1-16-amp-ev-charging-station-acs-120) I’ve found, at $$\$379$$.
+* This charger comes with a [cheap lock](https://store.clippercreek.com/image/cache/catalog/New%20Free%20lock_gold%20on%20gen%202%20with%20type-800x800.jpg) to keep out un-authorized users.
+
+---
+
+## What Will the Most Expensive Level 2 Charger Cost UHart?
+The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlantic Business Development, SemaConnect, detailing the cost of SemaConnect charger installation. I imagine it’s similar for ChargePoint and others. **Note**: The following excludes EVSE costs.
+
+1. The list price is $$\$3,590$$ per charging station, with volume pricing available.
+2. Cable management devices cost $$\$600$$ for dual or single configurations.
+3. The first year of network service is complimentary, after which the yearly cost is $$\$240$$.
+4. There are no activation, turn on, or commissioning fees.
+5. There are no taxes for shipping to CT; only UPS ground shipping is charged.
+6. UHart chooses a kWh or hourly rate to cover or mark up electric costs.
+7. UHart isn’t obligated to use SemaConnect, in the event that the University offers complimentary charging.
+8. SemaConnect sends a quarterly payment based on the aforementioned user pricing.
+9. SemaConnect nets out a 5% credit card transaction / management fee.
+10. SemaConnect registers the customers’ credit card information and deals will all financial transactions.
+
+---
