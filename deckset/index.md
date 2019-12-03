@@ -65,9 +65,9 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 ## Charging Levels
 There are currently three levels of charging, and each varies wildly from the others.
 
-* **Level 1**: Slowest, at about 1.8$$kWh$$, providing about 5 RPH.
-* **Level 2**: Most common, at about 9$$kWh$$, providing about 25 RPH.
-* **Level 3**: Fastest, at about 50$$kWh$$, providing about 138 RPH.[^3]
+* **Level 1**: Slowest, at about $$1.8kWh$$, providing about 5 RPH.
+* **Level 2**: Most common, at about $$9kWh$$, providing about 25 RPH.
+* **Level 3**: Fastest, at about $$50kWh$$, providing about 138 RPH.[^3]
 
 [^3]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 RPH.
 
@@ -100,8 +100,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ## Some Basic Electric Math
 * $$amps \times volts = watts$$.
-* A typical household outlet provides about 15 $$amps$$ at 120 $$volts$$.
-* Thus $$15 \times 120 = 1800watts$$ per hour, or $$1.8kWh$$.
+* A typical household outlet provides about $$15amps$$ at $$120volts$$.
+* Thus $$15amps \times 120volts = 1800watts$$ per hour, or $$1.8kWh$$.
 
 ---
 
@@ -115,15 +115,15 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ## How Much Electricity Does an EV Need to Travel One Mile?
 * Charging my car for one hour ($$1800watts$$) from a standard plug provides me with $$5$$ miles of range.
-* Therefore, 1 mile of range requires $$\frac{1800 (watts)}{5 (miles)} = 360watts$$.
+* Therefore, 1 mile of range requires $$\frac{1800watts}{5miles} = 360watts$$.
 
 ---
 
 ## How Much Does the Consumer Pay for EV Charging on the Road, Which is Level 2?
 * Every Level 1 or Level 2 charger I’ve visited in NY and CT, whether at a school or otherwise, has provided free charging.
 * I have, however, paid for parking in lots that provide EV charging. For example:
-   — *NY (Kew Gardens)*: $3 for the first hour; $2 each additional.
-   — *CT (Blue Back Square)*: $1.50 per hour.
+   — *NY (Kew Gardens)*: $$\$3$$ for the first hour; $$\$2$$ each additional.
+   — *CT (Blue Back Square)*: $$\$1.50$$ per hour.
 
 ---
 
