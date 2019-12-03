@@ -137,6 +137,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Brand**: Clipper Creek
 
+**Charger count**: 1
+
 ![fit, right](img/IMG_1800.JPG)
 
 ---
@@ -146,6 +148,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 **Location**: Delamar West Hartford
 
 **Brand**: Clipper Creek
+
+**Charger count**: 1
 
 ![fit, right](img/IMG_0749.JPG)
 
@@ -157,6 +161,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Brand**: SemaConnect
 
+**Charger count**: 2
+
 ![fit, right](img/IMG_8346.JPG)
 
 ---
@@ -166,6 +172,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 **Location**: Bloomfield Human Services Community Center
 
 **Brand**: SemaConnect
+
+**Charger count**: 2
 
 ![fit, right](img/IMG_3337.JPG)
 
@@ -177,6 +185,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Brand**: EVSE LLC
 
+**Charger count**: 2
+
 ![fit, right](img/IMG_6080.JPG)
 
 ---
@@ -186,6 +196,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 **Location**: West Hartford Town Hall
 
 **Brand**: EVSE LLC
+
+**Charger count**: 2
 
 ![fit, right](img/IMG_0954.JPG)
 
@@ -197,6 +209,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Brand**: Clipper Creek
 
+**Charger count**: 1
+
 ![fit, right](img/IMG_0876.JPG)
 
 ---
@@ -206,6 +220,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 **Location**: Public parking, Arapahoe Rd at LaSalle Rd
 
 **Brand**: Clipper Creek
+
+**Charger count**: 1
 
 ![fit, right](img/IMG_8269.JPG)
 
@@ -218,6 +234,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 **Brand**: ChargePoint
 
 ![fit, right](img/PENDING)
+**Charger count**: 2
+
 
 ---
 
