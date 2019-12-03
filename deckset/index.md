@@ -42,14 +42,6 @@ Any discussion about charging vehicles in this deck does not pertain to HEVs —
 Perhaps the most interesting attitude towards EV chargers on campus comes from Wesleyan:
 
 > “Add additional electric vehicle charging stations somewhere more central to campus, possibly by admissions. This would serve as a sign of Wesleyan's commitment to sustainability for visitors and potential students, and would encourage more faculty/staff to purchase hybrid and electric vehicles. The two chargers located by athletics are almost always in use, so clearly there is a demand for this on campus. I believe there is also still state money available to subsidize the project.”
-
----
-
-## Who Has EV Chargers in the West Hartford Environs?
-Perhaps the most interesting attitude towards EV chargers on campus comes from Wesleyan:
-
-> “Add additional electric vehicle charging stations somewhere more central to campus, possibly by admissions. This would serve as a sign of Wesleyan's commitment to sustainability for visitors and potential students, and would encourage more faculty/staff to purchase hybrid and electric vehicles. The two chargers located by athletics are almost always in use, so clearly there is a demand for this on campus. **I believe there is also still state money available to subsidize the project.**”
--- [https://www.wesleyan.edu/bestpractices/projects/completed.html](https://www.wesleyan.edu/bestpractices/projects/completed.html)
 -- [Completed, Best Practices Committee](https://www.wesleyan.edu/bestpractices/projects/completed.html) | Wesleyan University
 
 ---
