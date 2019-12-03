@@ -14,7 +14,7 @@ build-lists: true
 * **DEEP**: Dept of Energy and Environmental Protection
 * **NEMA**: National Electrical Manufacturers Association
 * **EVSE**: Electric Vehicle Supply Equipment (charging station and associated equipment)
-* **RPH**: Miles or Range per Hour of Charging
+* **RPH**: Range per Hour
 * **HEV**: Hybrid Electric Vehicle (Prius)
 * **PHEV**: Plug-In Hybrid Electric Vehicle (Prius Prime)
 * **EV**: Electric Vehicle (Tesla)
