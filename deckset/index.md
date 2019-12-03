@@ -262,5 +262,5 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
    *“The resources on this page will help you explore various types of charging station equipment and also provide very useful information on siting a charging station and signage requirements.”*
 
+   *Source*: First ¶ at [EVConnecticut Charging Resources](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=562474&deepNav_GID=2183). **§**
 
-   **Source**: First paragraph at [EVConnecticut Charging Resources](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=562474&deepNav_GID=2183). **§**
