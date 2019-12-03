@@ -106,7 +106,14 @@ The most common form factors for charging interfaces in the US:
 ---
 
 ## Form Factors
-![92%, inline](img/ev-charging-basics.jpg)
+![160%, inline](img/ev-charging-basics--1.jpg)
+
+Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.chargepoint.com/files/Quick_Guide_to_Fast_Charging.pdf)
+
+---
+
+## Form Factors
+![163%, inline](img/ev-charging-basics--2.jpg)
 
 Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.chargepoint.com/files/Quick_Guide_to_Fast_Charging.pdf)
 
