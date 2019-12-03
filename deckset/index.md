@@ -126,7 +126,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
-## Partial List of Local EV Chargers
+## [fit] Partial List of Local EV Chargers
 
 ---
 
