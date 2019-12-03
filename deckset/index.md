@@ -85,6 +85,13 @@ There are currently three levels of charging, and each varies wildly from the ot
 
 ---
 
+## Charging Levels
+![200%, inline](img/charging-levels.jpg)
+
+Source: [Commercial Electric Vehicle Guidelines: Understanding the Differences Between Charging Station Levels and Speeds](https://www.semaconnect.com/wp-content/uploads/2017/03/WhitePaper_SemaConnect_Charging_Levels.pdf)
+
+---
+
 ## Form Factors
 The most common form factors for charging interfaces in the US:
 
