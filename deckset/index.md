@@ -91,7 +91,6 @@ The most common form factors for charging interfaces in the US:
 ---
 
 ## Form Factors
-
 ![92%, inline](img/ev-charging-basics.jpg)
 
 Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.chargepoint.com/files/Quick_Guide_to_Fast_Charging.pdf)
@@ -132,7 +131,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Delamar West Hartford
 
 **Brand**: Clipper Creek
@@ -144,7 +142,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Delamar West Hartford
 
 **Brand**: Clipper Creek
@@ -156,7 +153,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Bloomfield Human Services Community Center
 
 **Brand**: SemaConnect
@@ -168,7 +164,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Bloomfield Human Services Community Center
 
 **Brand**: SemaConnect
@@ -180,7 +175,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: University of Connecticut School of Law
 
 **Brand**: EVSE LLC
@@ -192,7 +186,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: West Hartford Town Hall
 
 **Brand**: EVSE LLC
@@ -204,7 +197,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Public parking, Arapahoe Rd at LaSalle Rd
 
 **Brand**: Clipper Creek
@@ -216,7 +208,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Public parking, Arapahoe Rd at LaSalle Rd
 
 **Brand**: Clipper Creek
@@ -228,7 +219,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Partial List of Local EV Chargers
-
 **Location**: Bishops Corner
 
 **Brand**: ChargePoint
@@ -249,7 +239,6 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## Useful Links
-
 * The US Dept of Energy’s [Costs Associated With Non-Residential Electric Vehicle Supply Equipment](https://afdc.energy.gov/files/u/publication/evse_cost_report_2015.pdf)
 
    *Published in late 2015, this document answers just about any question one may have regarding the installation of EVSE onto non-residential properties. Appendix C: Electricity Consumption Examples on Page 38 provides examples of pricing and power consumption use.* **§**
