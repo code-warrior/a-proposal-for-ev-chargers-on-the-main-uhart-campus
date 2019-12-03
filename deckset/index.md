@@ -264,3 +264,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
    *Source*: First ¶ at [EVConnecticut Charging Resources](https://www.ct.gov/deep/cwp/view.asp?a=2684&q=562474&deepNav_GID=2183). **§**
 
+* *[The Different EV Charging Connector Types](https://evcharging.enelx.com/eu/about/news/blog/552-ev-charging-connector-types)* **§**
+
+* US Dept of Energy’s *[Vehicle Technologies Program](https://www.westhartfordct.gov/civicax/filebank/blobdload.aspx?BlobID=28387)* (October 2011) **§**
+
+---
