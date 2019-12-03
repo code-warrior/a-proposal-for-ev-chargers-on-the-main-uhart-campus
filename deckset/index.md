@@ -106,7 +106,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ## How Much Does the Consumer Pay for EV Charging at Home, Which is Level 1?
-* Eversource charges me about $$\$0.19$$ per $$kWh$$, and all the outlets in my apartment [^6] supplies about $$1800watts$$, or $$1.8kWh$$.
+* Eversource charges me about $$\$0.19$$ per $$kWh$$, and all the outlets in my apartment [^6] supply about $$1800watts$$, or $$1.8kWh$$.
 * Thus, $$1.8kWh \times \$0.19 = \$.34$$.
 
 [^6]: A typical, Type B household plug, also known as a NEMA 5-15.
