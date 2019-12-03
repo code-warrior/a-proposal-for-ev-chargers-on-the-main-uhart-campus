@@ -101,7 +101,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ## Some Basic Electric Math
 * $$amps \times volts = watts$$.
 * A typical household outlet provides about $$15amps$$ at $$120volts$$.
-* Thus $$15amps \times 120volts = 1800watts$$ per hour, or $$1.8kWh$$.
+* Thus, $$15amps \times 120volts = 1800watts$$ per hour, or $$1.8kWh$$.
 
 ---
 
