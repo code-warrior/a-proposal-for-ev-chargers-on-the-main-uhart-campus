@@ -233,9 +233,9 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Brand**: ChargePoint
 
-![fit, right](img/PENDING)
 **Charger count**: 2
 
+![fit, right](img/Screenshot 2019-12-02 20.44.07.jpg)
 
 ---
 
