@@ -221,6 +221,13 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
+## Interesting Facts
+* San Mateo Community College in California has 61 EV chargers. [Stanford has 132!](https://www.eastbaytimes.com/2019/08/19/uc-berkeley-only-has-four-electric-vehicle-charging-spots-heres-how-other-bay-area-colleges-stack-up/)
+* [Rivian](https://rivian.com/) is making an all electric pick up truck. Amazon [ordered 100,000](https://www.trucks.com/2019/09/30/rivian-electric-trucks-ready-launch/).
+* Ford just introduced the [2021 all-electric Mustang Mach-E](https://www.ford.com/suvs/mach-e/2021/).
+
+---
+
 ## Useful Links
 
 * The US Dept of Energy’s [Costs Associated With Non-Residential Electric Vehicle Supply Equipment](https://afdc.energy.gov/files/u/publication/evse_cost_report_2015.pdf)
