@@ -235,6 +235,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 **Charger count**: 2
 
+**Note signs**: [“Violators will be towed”](https://www.google.com/maps/@41.7845471,-72.7479486,3a,49y,175.32h,83.99t/data=!3m6!1e1!3m4!1smwKStSrmlOdlsVn9XZ3ukg!2e0!7i13312!8i6656)
+
 ![fit, right](img/Screenshot 2019-12-02 20.44.07.jpg)
 
 ---
