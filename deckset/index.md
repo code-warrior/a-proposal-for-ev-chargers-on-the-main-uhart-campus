@@ -416,7 +416,7 @@ Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
 ## Useful Links
 * The US Dept of Energy’s [Costs Associated With Non-Residential Electric Vehicle Supply Equipment](https://afdc.energy.gov/files/u/publication/evse_cost_report_2015.pdf)
 
-   *Published in late 2015, this document answers just about any question one may have regarding the installation of EVSE onto non-residential properties. Appendix C: Electricity Consumption Examples on Page 38 provides examples of pricing and power consumption use.* **§**
+   *Published in late 2015, this document answers just about any question one may have regarding the installation of EVSE onto non-residential properties. Appendix C: Electricity Consumption Examples on page 38 provides examples of pricing and power consumption use.* **§**
 
 * *[Capitol Clean Cities of Connecticut](http://ct-ccc.org/wp/)*
 
