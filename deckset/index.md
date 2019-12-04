@@ -149,7 +149,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
-## What Will the Least Expensive Level 2 Charger Cost UHart?
+### What Will the Least Expensive Level 2 Charger Cost UHart?
 **Note**: The following excludes EVSE costs.
 
 * Clipper Creek makes [the cheapest Level 1 charger]((https://store.clippercreek.com/all-products/level-1-16-amp-ev-charging-station-acs-120) I’ve found, at $$\$379$$.
@@ -157,8 +157,8 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 
 ---
 
-## What Will the Most Expensive Level 2 Charger Cost UHart?
-The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlantic Business Development, SemaConnect, detailing the cost of SemaConnect charger installation. I imagine it’s similar for ChargePoint and others. **Note**: The following excludes EVSE costs.
+### What Will the Most Expensive Level 2 Charger Cost UHart?
+The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlantic Business Development, SemaConnect, detailing the cost of installing a SemaConnect charger. I imagine it’s similar for ChargePoint and others.[^10]
 
 1. The list price is $$\$3,590$$ per charging station, with volume pricing available.
 2. Cable management devices cost $$\$600$$ for dual or single configurations.
@@ -170,6 +170,8 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 8. SemaConnect sends a quarterly payment based on the aforementioned user pricing.
 9. SemaConnect nets out a 5% credit card transaction / management fee.
 10. SemaConnect registers the customers’ credit card information and deals will all financial transactions.
+
+[^10]: Excludes EVSE costs.
 
 ---
 
@@ -207,6 +209,17 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 **Charger count**: 2
 
 ![fit, right](img/IMG_8346.JPG)
+
+---
+
+## Partial List of Local EV Chargers
+**Location**: Bloomfield Human Services Community Center
+
+**Brand**: SemaConnect
+
+**Charger count**: 2
+
+![fit, right](img/IMG_3337.JPG)
 
 ---
 
@@ -257,17 +270,6 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 ---
 
 ## Partial List of Local EV Chargers
-**Location**: Bloomfield Human Services Community Center
-
-**Brand**: SemaConnect
-
-**Charger count**: 2
-
-![fit, right](img/IMG_3337.JPG)
-
----
-
-## Partial List of Local EV Chargers
 **Location**: University of Connecticut School of Law
 
 **Brand**: EVSE LLC
@@ -279,7 +281,7 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 ---
 
 ## Partial List of Local EV Chargers
-**Location**: Trinity College (Crescent St Parking Lot)
+**Location**: Trinity College’s Crescent St Parking Lot
 
 **Brand**: Clipper Creek
 
@@ -297,6 +299,110 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 * [EVSE LLC](http://evsellc.com/)
 * [Juice Bar](https://www.juicebarev.com/) (based in Norwalk, CT and Hartford, CT)
 * [SemaConnect](https://www.semaconnect.com/)
+
+---
+
+## Random Installation Notes
+
+---
+
+## Random Installation Notes
+### Funding
+* Eversource has provided up to 90% of the infrastructure cost, and they install charging lines and breakers for up to 10 chargers.
+* I don’t think UHart can charge customers for electricity if the chargers are subsidized with government funds.
+
+---
+
+## Random Installation Notes
+### Barriers
+* If chargers are installed onto pedestals, then steel bollards, or barriers, are usually placed in front of them in order to mitigate damage to the stations and the electrical grid.
+
+---
+
+![fit](img/ev-chargers-at-bishops-corner.jpg)
+
+---
+
+![fit](img/IMG_2947.jpg)
+
+---
+
+![fit](img/IMG_0876.JPG)
+![fit](img/IMG_0954.JPG)
+![fit](img/IMG_8346.JPG)
+
+---
+
+## Random Installation Notes
+### Barriers
+* Wall-mounted chargers might require concrete parking blocks.
+
+---
+
+![fit](img/IMG_0749.JPG)
+
+---
+
+## Random Installation Notes
+### Outdoors
+* Installing the chargers at the intersection of a 2 × 2 parking matrix (⊹) decreases the chances of being ICE-ed, but is more expensive and complicated to implement.
+* Installing them in a location where no trenching, boring, and/or repaving is required, such as in the K-Lot by The Hartford Art School, is perhaps the cheapest option.
+
+---
+
+![fit](img/IMG_0838.JPG)
+
+---
+
+## Random Installation Notes
+### Indoors
+* If chargers with mobile phone app capabilities are installed in a subterranean location, where a 4G signal is not available, then a repeater would need to be installed.
+
+---
+
+## Random Installation Notes
+### Parking Spot Decoration
+* Paint the ground a bright green.
+* Add clear signage.
+
+---
+
+![inline, 20%](https://bethpark.org/wp-content/uploads/2018/07/IMG_2947.jpg)
+
+Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
+
+---
+
+## Random Installation Notes
+### Breakers
+* If a single breaker/line is used for 2 chargers, then the electrical load is divided, meaning each vehicle only gets half the charge.
+
+---
+
+## EV Charging Etiquette
+* Local resident should only charge to 80%, so others may charge.
+* Non-locals may charge more.
+* Limiting Level 2 charging to 2–4 hours is commong, because most — if not all — cars will reach an 80% charge in that time.
+
+---
+
+## Revenue
+### Charging Fees
+* No university I’m aware of charges for EV charging, likely because most are subsidized.
+* In non-university settings, fees are typically charged in minute-based increments of $$kWh$$.
+* Hourly fees, however, are typically charged when parking fees are involved.
+
+---
+
+## Revenue
+### Fines
+* Discourage ICE-ing and squatters by…
+     — imposing fines
+     — im-mobilizing ICE cars
+
+---
+
+![fit](https://s3.amazonaws.com/plugshare.production.photos/photos/398286.jpg)
 
 ---
 
@@ -325,5 +431,3 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 * *[The Different EV Charging Connector Types](https://evcharging.enelx.com/eu/about/news/blog/552-ev-charging-connector-types)* **§**
 
 * US Dept of Energy’s *[Vehicle Technologies Program](https://www.westhartfordct.gov/civicax/filebank/blobdload.aspx?BlobID=28387)* (October 2011) **§**
-
----
