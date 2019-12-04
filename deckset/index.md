@@ -152,7 +152,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ### What Will the Least Expensive Level 2 Charger Cost UHart?
 **Note**: The following excludes EVSE costs.
 
-* Clipper Creek makes [the cheapest Level 1 charger]((https://store.clippercreek.com/all-products/level-1-16-amp-ev-charging-station-acs-120) I’ve found, at $$\$379$$.
+* Clipper Creek makes [the cheapest Level 1 charger](https://store.clippercreek.com/all-products/level-1-16-amp-ev-charging-station-acs-120) I’ve found, at $$\$379$$.
 * This charger comes with a [cheap lock](https://store.clippercreek.com/image/cache/catalog/New%20Free%20lock_gold%20on%20gen%202%20with%20type-800x800.jpg) to keep out unauthorized users.
 
 ---
