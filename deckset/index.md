@@ -42,6 +42,7 @@ Any discussion about charging vehicles in this deck does not pertain to HEVs —
 | [Asnuntuck Community College](https://asnuntuck.edu/acc-has-free-electric-vehicle-charging-station/)   | 1       | Public | Free | None |
 | [Trinity College](https://www.trincoll.edu/sustainability/climate-change/)                             | 4       | Public | Free | None |
 | [Western Connecticut State University](https://www.wcsu.edu/news-archives/evchargingstations/)         | 4       | Public | Free | None |
+| [Central Connecticut State University](https://www.ccsu.edu/studentCenter/commuters.html)              | 3       | Public | Free | None |
 | [Wesleyan University](https://www.wesleyan.edu/sustainability/initiatives/transportation/options.html) | 10      | Mostly private; public discouraged | Free | Mainly for use by the Wesleyan community. Public users must obtain a parking permit or have their vehicle im-mobilized. |
 | [UConn at Storrs and the School of Law](https://ecohusky.uconn.edu/electric-vehicles/)                 | Various | Public | Free | The UConn Law School has 2 chargers and the Storrs campus has 2 or more chargers.
 
@@ -396,13 +397,25 @@ Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
 
 ## Revenue
 ### Fines
-* Discourage ICE-ing and squatters by…
-     — imposing fines
-     — im-mobilizing ICE cars
+* Discourage ICE-ing and squatters…
 
 ---
 
-![fit](https://s3.amazonaws.com/plugshare.production.photos/photos/398286.jpg)
+![inline, 80%](img/101242.jpg)
+
+Source: [Plugshare](https://www.plugshare.com/location/54613)
+
+---
+
+## Revenue
+### Fines
+* By imposing fines and im-mobilizing cars
+
+---
+
+![inline, 40%](https://s3.amazonaws.com/plugshare.production.photos/photos/398286.jpg)
+
+Source: [Plugshare](https://www.plugshare.com/location/17921)
 
 ---
 
