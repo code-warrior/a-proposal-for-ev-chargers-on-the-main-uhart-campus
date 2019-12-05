@@ -3,7 +3,7 @@ slidenumbers: true
 theme: Simple by Roy Vanegas, 1
 build-lists: true
 
-# A Proposal for EV Chargers on the Main UHart Campus
+# A Proposal for the Installation of EV Chargers on the UHart Campus
 
 #### Roy Vanegas, Assistant Professor, Dept of Computing Sciences, University of Hartford
 #### 5 December 2019
