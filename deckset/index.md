@@ -382,7 +382,7 @@ Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
 ## EV Charging Etiquette
 * Local resident should only charge to 80%, so others may charge.
 * Non-locals may charge more.
-* Limiting Level 2 charging to 2–4 hours is commong, because most — if not all — cars will reach an 80% charge in that time.
+* Limiting Level 2 charging to 2–4 hours is common, because most — if not all — cars will reach an 80% charge in that time.
 
 ---
 
