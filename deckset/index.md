@@ -448,11 +448,11 @@ Source: [Plugshare](https://www.plugshare.com/location/17921)
 
 ---
 
-# [fit] Thank You
-
----
-
 Roy Vanegas (pronounced, “Vuh-nay-gus”)
 vanegas@hartford.edu
 Dana Hall, Rm 310B
 860.768.5925
+
+---
+
+# [fit] Thank You
