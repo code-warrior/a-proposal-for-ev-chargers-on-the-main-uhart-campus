@@ -348,6 +348,7 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 ### Outdoors
 * Installing the chargers at the intersection of a 2 × 2 parking matrix (⊹) decreases the chances of being ICE-ed, but is more expensive and complicated to implement.
 * Installing them in a location where no trenching, boring, and/or repaving is required, such as in the K-Lot by The Hartford Art School, is perhaps the cheapest option.
+* Getting the longest cords available, like those of the Clipper Creek chargers, will allow EVs to park farther away from the EV station.
 
 ---
 
@@ -444,3 +445,14 @@ Source: [Plugshare](https://www.plugshare.com/location/17921)
 * *[The Different EV Charging Connector Types](https://evcharging.enelx.com/eu/about/news/blog/552-ev-charging-connector-types)* **§**
 
 * US Dept of Energy’s *[Vehicle Technologies Program](https://www.westhartfordct.gov/civicax/filebank/blobdload.aspx?BlobID=28387)* (October 2011) **§**
+
+---
+
+# [fit] Thank You
+
+---
+
+Roy Vanegas (pronounced, “Vuh-nay-gus”)
+vanegas@hartford.edu
+Dana Hall, Rm 310B
+860.768.5925
