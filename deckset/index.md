@@ -75,11 +75,11 @@ Perhaps the most interesting attitude towards EV chargers on campus comes from W
 ## Charging Levels
 There are currently three levels of charging, and each varies wildly from the others.
 
-* **Level 1**: Slowest, at about $$1.8kWh$$, providing about 5 RPH.
-* **Level 2**: Most common, at about $$9kWh$$, providing about 25 RPH.
-* **Level 3**: Fastest, at about $$50kWh$$, providing about 138 RPH.[^3]
+* **Level 1**: Slowest, at about $$1.8kWh$$, providing about 5 miles of RPH.
+* **Level 2**: Most common, at about $$9kWh$$, providing about 25 miles of RPH.
+* **Level 3**: Fastest, at about $$50kWh$$, providing about 138 miles of RPH.[^3]
 
-[^3]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 RPH.
+[^3]: Tesla superchargers and other Level 3 chargers provide up to 120$$kWh$$ of charging, providing about 333 miles of RPH.
 
 **Note**: These numbers are typical, but your mileage may vary.
 
