@@ -410,8 +410,8 @@ Source: [Plugshare](https://www.plugshare.com/location/54613)
 ---
 
 ## Revenue
-### Fines
-* By imposing fines and im-mobilizing cars
+### Im-mobilizing
+* Im-mobilizing cars will also discourage ICE-ing and squatters…
 
 ---
 
