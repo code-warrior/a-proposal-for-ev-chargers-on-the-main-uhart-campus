@@ -147,6 +147,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 * I have, however, paid for parking in lots that provide EV charging. For example:
    — *NY (Kew Gardens)*: $$\$3$$ for the first hour; $$\$2$$ each additional.
    — *CT (Blue Back Square)*: $$\$1.50$$ per hour.
+   — *CT (UConn School of Law)*: $$\$1.35$$ per hour.
 
 ---
 
