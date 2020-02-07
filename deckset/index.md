@@ -421,6 +421,12 @@ Source: [Plugshare](https://www.plugshare.com/location/17921)
 
 ---
 
+## Misconception About Adding EV Charging Spots
+* It’s incorrect to think that EV charging spots *take up* parking spots.
+* An EV parking spot simply re-assigns where an EV would park.
+
+---
+
 ## Interesting Facts
 * San Mateo Community College in California has 61 EV chargers. [Stanford has 132!](https://www.eastbaytimes.com/2019/08/19/uc-berkeley-only-has-four-electric-vehicle-charging-spots-heres-how-other-bay-area-colleges-stack-up/)
 
