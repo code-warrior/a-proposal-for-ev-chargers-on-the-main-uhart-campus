@@ -422,8 +422,7 @@ Source: [Plugshare](https://www.plugshare.com/location/17921)
 
 ## Interesting Facts
 * San Mateo Community College in California has 61 EV chargers. [Stanford has 132!](https://www.eastbaytimes.com/2019/08/19/uc-berkeley-only-has-four-electric-vehicle-charging-spots-heres-how-other-bay-area-colleges-stack-up/)
-* [Rivian](https://rivian.com/) is making an all electric pick up truck. Amazon [ordered 100,000](https://www.trucks.com/2019/09/30/rivian-electric-trucks-ready-launch/).
-* Ford just introduced the [2021 all-electric Mustang Mach-E](https://www.ford.com/suvs/mach-e/2021/).
+
 
 ---
 
