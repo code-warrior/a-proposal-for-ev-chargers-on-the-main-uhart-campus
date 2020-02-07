@@ -359,7 +359,7 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 
 ## Random Installation Notes
 ### Indoors
-* If chargers with mobile phone app capabilities are installed in a subterranean location, where a 4G signal is not available, then a repeater would need to be installed.
+* If chargers with mobile phone app capabilities are installed in a subterranean location where a 4G signal is not available, then a repeater would need to be installed.
 
 ---
 
