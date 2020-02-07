@@ -159,7 +159,7 @@ Source: [Driver’s Checklist: A Quick Guide to Fast Charging](https://www.charg
 ---
 
 ### What Will the Most Expensive Level 2 Charger Cost UHart?
-The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlantic Business Development, SemaConnect, detailing the cost of installing a SemaConnect charger. I imagine it’s similar for ChargePoint and others.[^10]
+The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlantic Business Development, SemaConnect, detailing the cost of installing a SemaConnect charger. I imagine it’s similar for ChargePoint and others.[^7]
 
 1. The list price is $$\$3,590$$ per charging station, with volume pricing available.
 2. Cable management devices cost $$\$600$$ for dual or single configurations.
@@ -172,7 +172,7 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 9. SemaConnect nets out a 5% credit card transaction / management fee.
 10. SemaConnect registers the customers’ credit card information and deals will all financial transactions.
 
-[^10]: Excludes EVSE costs.
+[^7]: Excludes EVSE costs.
 
 ---
 
