@@ -423,6 +423,18 @@ Source: [Plugshare](https://www.plugshare.com/location/17921)
 ## Interesting Facts
 * San Mateo Community College in California has 61 EV chargers. [Stanford has 132!](https://www.eastbaytimes.com/2019/08/19/uc-berkeley-only-has-four-electric-vehicle-charging-spots-heres-how-other-bay-area-colleges-stack-up/)
 
+---
+
+## A Partial List of EVs Recently Introduced to the Automobile Market
+
+* Rivian [R1T pickup truck](https://rivian.com/r1t/)[^8]
+* Rivian [R1S SUV](https://rivian.com/r1s/)
+* GM [Hummer](https://www.gmc.com/electric-truck/hummer-ev)
+* Tesla [Cybertruck](https://www.tesla.com/cybertruck)
+* Ford [Mustang](https://www.ford.com/suvs/mach-e/2021/)
+* Jaguar [iPace](https://www.jaguarusa.com/all-models/i-pace/index.html)
+
+[^8]: Amazon has [ordered 100,000](https://www.trucks.com/2019/09/30/rivian-electric-trucks-ready-launch/) electric vans from Rivian.
 
 ---
 
