@@ -95,7 +95,7 @@ Source: [Commercial Electric Vehicle Guidelines: Understanding the Differences B
 ---
 
 ## Form Factors
-The most common form factors for charging interfaces in the US:
+The most common charging interface form factors in the US are
 
 * **J1772** (Level 1 and Level 2)
 * **CCS 1** (Level 3)
