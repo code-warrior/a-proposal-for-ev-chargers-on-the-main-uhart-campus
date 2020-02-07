@@ -365,7 +365,7 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 
 ## Random Installation Notes
 ### Parking Spot Decoration
-* Paint the ground a bright green.
+* Paint the ground bright green.
 * Add clear signage.
 
 ---
@@ -378,7 +378,7 @@ Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
 
 ## Random Installation Notes
 ### Breakers
-* If a single breaker/line is used for 2 chargers, then the electrical load is divided, meaning each vehicle only gets half the charge.
+* If a single breaker/line is used for 2 chargers, then the electrical load is divided in 2, meaning each vehicle only gets half the charge.
 
 ---
 
@@ -392,7 +392,7 @@ Source: [Bethlehem Parking Authority](https://bethpark.org/ev-stations)
 ## Revenue
 ### Charging Fees
 * No university I’m aware of charges for EV charging, likely because most are subsidized.
-* In non-university settings, fees are typically charged in minute-based increments of $$kWh$$.
+* In non-university settings, fees are typically charged in minute-based increments of $$kWh$$ for Level 3 charging.
 * Hourly fees, however, are typically charged when parking fees are involved.
 
 ---
