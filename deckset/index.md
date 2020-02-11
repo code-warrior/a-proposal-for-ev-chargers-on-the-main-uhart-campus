@@ -304,6 +304,28 @@ The following is a summary of an email from Joseph Inglisa, Director, Mid-Atlant
 
 ---
 
+## Staff/Faculty Who Drive an EV or PHEV
+* Julie Chen (CETA)
+* Carla Corcoran (Hartford Art School)
+* Barbara Haines (University Studies)
+* Seth Holmes (CETA)
+* Yingcui Li (A&S)
+* Priscilla Mulvaney (The Hartt School)
+* Katharine Owens (University Studies)
+* Roy Vanegas (A&S)
+* Sarah Washburn (Hartt Community Division)
+* Andrew Wollner (Hartford Art School)
+* Gregory Woodward (Office of the President)
+
+---
+
+## Staff/Faculty Interested in Purchasing an EV or PHEV
+* Gregory Betz (Counseling and Psychological Services)
+* Thomas Bradley (Hartford Art School)
+* Domenic DeLuca (Unknown)
+
+---
+
 ## Random Installation Notes
 
 ---
